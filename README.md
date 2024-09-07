@@ -9,7 +9,7 @@ The first folder contains information for each type of meta-feature, along with 
 
 ##### results_AutoML
 
-This second folder corresponds to the results of each AutoML method (AutoGluon, Auto-Sklearn, Auto-Weka, H2O AutoML, Naive AutoML, and TPOT) for each dataset.
+This second folder corresponds to the results of each AutoML method (AutoGluon, Auto-Sklearn, Auto-Weka, H2O AutoML, Naive AutoML, FlaML-Zero Shot and TPOT) for each dataset.
 
 ##### results_PCC_5_k5
 
