@@ -1,0 +1,14 @@
+id,task,framework,constraint,fold,type,result,metric,mode,version,params,app_version,utc,duration,training_duration,predict_duration,models_count,seed,info,acc,auc,balacc,logloss,models_ensemble_count
+openml.org/t/3818,tae,AutoGluon,test,0,binary,0.5625,acc,local,1.0.0,,2.1.4,2024-05-17T19:31:28,21.4,13.8,0.1,14,806743551,,0.5625,0.541667,0.516667,0.855845,3
+openml.org/t/3818,tae,AutoGluon,test,1,binary,0.866667,acc,local,1.0.0,,2.1.4,2024-05-17T19:31:40,11.9,9.2,0.007,14,806743552,,0.866667,0.74,0.85,0.618135,2
+openml.org/t/3818,tae,AutoGluon,test,2,binary,0.733333,acc,local,1.0.0,,2.1.4,2024-05-17T19:31:51,11.0,8.3,0.07,14,806743553,,0.733333,0.88,0.6,0.511433,3
+openml.org/t/3818,tae,AutoGluon,test,3,binary,0.8,acc,local,1.0.0,,2.1.4,2024-05-17T19:32:03,11.8,9.3,0.01,14,806743554,,0.8,0.72,0.8,0.742782,2
+openml.org/t/3818,tae,AutoGluon,test,4,binary,0.666667,acc,local,1.0.0,,2.1.4,2024-05-17T19:32:15,11.8,9.1,0.01,14,806743555,,0.666667,0.8,0.6,0.443858,2
+openml.org/t/3818,tae,AutoGluon,test,5,binary,0.733333,acc,local,1.0.0,,2.1.4,2024-05-17T19:32:27,11.6,8.4,0.006,14,806743556,,0.733333,0.82,0.8,0.643182,2
+openml.org/t/3818,tae,AutoGluon,test,6,binary,0.733333,acc,local,1.0.0,,2.1.4,2024-05-17T19:32:38,11.0,8.5,0.006,14,806743557,,0.733333,0.72,0.7,0.732436,2
+openml.org/t/3818,tae,AutoGluon,test,7,binary,0.866667,acc,local,1.0.0,,2.1.4,2024-05-17T19:32:50,11.3,8.6,0.007,14,806743558,,0.866667,0.92,0.85,0.27505,3
+openml.org/t/3818,tae,AutoGluon,test,8,binary,0.733333,acc,local,1.0.0,,2.1.4,2024-05-17T19:33:01,11.1,8.6,0.006,14,806743559,,0.733333,0.62,0.6,0.61308,3
+openml.org/t/3818,tae,AutoGluon,test,9,binary,0.666667,acc,local,1.0.0,,2.1.4,2024-05-17T19:33:13,11.4,8.9,0.006,14,806743560,,0.666667,0.722222,0.638889,0.733491,2
+openml.org/t/3781,fri_c4_250_50,AutoGluon,test,0,binary,0.72,acc,local,1.0.0,,2.1.4,2024-05-17T19:33:28,14.6,12.1,0.004,14,806743551,,0.72,0.886364,0.681818,0.635292,2
+openml.org/t/3781,fri_c4_250_50,AutoGluon,test,1,binary,0.92,acc,local,1.0.0,,2.1.4,2024-05-17T19:33:44,16.3,13.4,0.02,14,806743552,,0.92,0.961039,0.918831,0.568896,5
+openml.org/t/3781,fri_c4_250_50,AutoGluon,test,2,binary,0.68,acc,local,1.0.0,,2.1.4,2024-05-17T19:33:59,14.8,12.3,0.003,14,806743553,,0.68,0.844156,0.665584,0.611765,2

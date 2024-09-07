@@ -1,0 +1,61 @@
+id,task,framework,constraint,fold,type,result,metric,mode,version,params,app+AF8-version,utc,duration,training+AF8-duration,predict+AF8-duration,models+AF8-count,seed,info,acc,auc,balacc,logloss,models+AF8-ensemble+AF8-count
+openml.org/t/3818,tae,AutoGluon,test,0,binary,0.5625,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-26T22:01:41,15.9,11.1,0.1,14,1919947720,,0.5625,0.541667,0.516667,0.855845,3
+openml.org/t/3818,tae,AutoGluon,test,1,binary,0.866667,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-26T22:01:53,11.4,8.7,0.007,14,1919947721,,0.866667,0.74,0.85,0.618135,2
+openml.org/t/3818,tae,AutoGluon,test,2,binary,0.733333,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-26T22:02:07,13.8,10.8,0.08,14,1919947722,,0.733333,0.88,0.6,0.511433,3
+openml.org/t/3818,tae,AutoGluon,test,3,binary,0.8,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-26T22:02:20,13.1,10.2,0.01,14,1919947723,,0.8,0.72,0.8,0.742782,2
+openml.org/t/3818,tae,AutoGluon,test,4,binary,0.666667,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-26T22:02:34,14.1,10.8,0.02,14,1919947724,,0.666667,0.8,0.6,0.443858,2
+openml.org/t/3818,tae,AutoGluon,test,5,binary,0.733333,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-26T22:02:48,12.9,9.6,0.008,14,1919947725,,0.733333,0.82,0.8,0.643182,2
+openml.org/t/3818,tae,AutoGluon,test,6,binary,0.733333,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-26T22:03:00,12.6,9.8,0.008,14,1919947726,,0.733333,0.72,0.7,0.732436,2
+openml.org/t/3818,tae,AutoGluon,test,7,binary,0.866667,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-26T22:03:12,11.7,9,0.007,14,1919947727,,0.866667,0.92,0.85,0.27505,3
+openml.org/t/3818,tae,AutoGluon,test,8,binary,0.733333,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-26T22:03:23,10.9,8.3,0.006,14,1919947728,,0.733333,0.62,0.6,0.61308,3
+openml.org/t/3818,tae,AutoGluon,test,9,binary,0.666667,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-26T22:03:35,11.2,8.7,0.006,14,1919947729,,0.666667,0.722222,0.638889,0.733491,2
+openml.org/t/3818,tae,autosklearn,test,0,binary,0.4375,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-26T22:13:17,34.6,27.1,0.1,4,125686868,,0.4375,0.5,0.383333,0.887905,
+openml.org/t/3818,tae,autosklearn,test,1,binary,0.666667,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-26T22:14:02,44.7,37.1,0.3,6,125686869,,0.666667,0.8,0.6,0.568694,
+openml.org/t/3818,tae,autosklearn,test,2,binary,0.733333,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-26T22:14:37,35.1,27.4,0.3,6,125686870,,0.733333,0.78,0.65,0.551994,
+openml.org/t/3818,tae,autosklearn,test,3,binary,0.733333,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-26T22:15:14,37.2,29.8,0.2,6,125686871,,0.733333,0.54,0.6,0.626254,
+openml.org/t/3818,tae,autosklearn,test,4,binary,0.6,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-26T22:15:50,35.7,28.2,0.2,5,125686872,,0.6,0.84,0.6,0.497711,
+openml.org/t/3818,tae,autosklearn,test,5,binary,0.866667,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-26T22:16:27,37.2,29.9,0.2,4,125686873,,0.866667,0.86,0.85,0.494148,
+openml.org/t/3818,tae,autosklearn,test,6,binary,0.8,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-26T22:17:12,44.3,36.8,0.3,7,125686874,,0.8,0.88,0.8,0.505191,
+openml.org/t/3818,tae,autosklearn,test,7,binary,0.733333,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-26T22:17:47,34.9,27.6,0.2,6,125686875,,0.733333,0.66,0.65,0.611856,
+openml.org/t/3818,tae,autosklearn,test,8,binary,0.733333,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-26T22:18:22,35.6,28.4,0.1,5,125686876,,0.733333,0.76,0.7,0.510432,
+openml.org/t/3818,tae,autosklearn,test,9,binary,0.933333,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-26T22:18:59,36,28.7,0.1,4,125686877,,0.933333,0.888889,0.944444,0.459014,
+openml.org/t/3818,tae,AutoWEKA,test,0,binary,,acc,local,latest,,2.1.4,2024+AC0-01+AC0-26T22:19:12,5.9,,,,1760822527,NoResultError: AutoWEKA failed producing any prediction.,,,,,
+openml.org/t/3818,tae,AutoWEKA,test,1,binary,,acc,local,latest,,2.1.4,2024+AC0-01+AC0-26T22:19:18,5.8,,,,1760822528,NoResultError: AutoWEKA failed producing any prediction.,,,,,
+openml.org/t/3818,tae,AutoWEKA,test,2,binary,,acc,local,latest,,2.1.4,2024+AC0-01+AC0-26T22:19:24,5.7,,,,1760822529,NoResultError: AutoWEKA failed producing any prediction.,,,,,
+openml.org/t/3818,tae,AutoWEKA,test,3,binary,,acc,local,latest,,2.1.4,2024+AC0-01+AC0-26T22:19:30,5.6,,,,1760822530,NoResultError: AutoWEKA failed producing any prediction.,,,,,
+openml.org/t/3818,tae,AutoWEKA,test,4,binary,,acc,local,latest,,2.1.4,2024+AC0-01+AC0-26T22:19:37,6.6,,,,1760822531,NoResultError: AutoWEKA failed producing any prediction.,,,,,
+openml.org/t/3818,tae,AutoWEKA,test,5,binary,,acc,local,latest,,2.1.4,2024+AC0-01+AC0-26T22:19:44,7.4,,,,1760822532,NoResultError: AutoWEKA failed producing any prediction.,,,,,
+openml.org/t/3818,tae,AutoWEKA,test,6,binary,,acc,local,latest,,2.1.4,2024+AC0-01+AC0-26T22:19:50,5.5,,,,1760822533,NoResultError: AutoWEKA failed producing any prediction.,,,,,
+openml.org/t/3818,tae,AutoWEKA,test,7,binary,,acc,local,latest,,2.1.4,2024+AC0-01+AC0-26T22:19:55,5.4,,,,1760822534,NoResultError: AutoWEKA failed producing any prediction.,,,,,
+openml.org/t/3818,tae,AutoWEKA,test,8,binary,,acc,local,latest,,2.1.4,2024+AC0-01+AC0-26T22:20:01,5.7,,,,1760822535,NoResultError: AutoWEKA failed producing any prediction.,,,,,
+openml.org/t/3818,tae,AutoWEKA,test,9,binary,,acc,local,latest,,2.1.4,2024+AC0-01+AC0-26T22:20:07,5.5,,,,1760822536,NoResultError: AutoWEKA failed producing any prediction.,,,,,
+openml.org/t/3818,tae,H2OAutoML,test,0,binary,0.5,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-26T22:23:27,42.7,31.9,0.08,28,1904274828,,0.5,0.6,0.466667,0.703162,
+openml.org/t/3818,tae,H2OAutoML,test,1,binary,0.866667,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-26T22:24:08,41.4,31.9,0.06,18,1904274829,,0.866667,0.9,0.9,0.426842,
+openml.org/t/3818,tae,H2OAutoML,test,2,binary,0.666667,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-26T22:24:50,41.4,31.6,0.3,27,1904274830,,0.666667,0.78,0.65,0.616824,
+openml.org/t/3818,tae,H2OAutoML,test,3,binary,0.866667,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-26T22:25:31,41.1,31.7,0.05,19,1904274831,,0.866667,0.73,0.85,0.719968,
+openml.org/t/3818,tae,H2OAutoML,test,4,binary,0.666667,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-26T22:26:13,41.6,32,0.07,26,1904274832,,0.666667,0.76,0.7,0.54731,
+openml.org/t/3818,tae,H2OAutoML,test,5,binary,0.8,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-26T22:26:56,42.5,32,0.07,19,1904274833,,0.8,0.85,0.8,0.551141,
+openml.org/t/3818,tae,H2OAutoML,test,6,binary,0.8,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-26T22:27:37,40.8,31.5,0.06,21,1904274834,,0.8,0.92,0.85,0.432857,
+openml.org/t/3818,tae,H2OAutoML,test,7,binary,0.866667,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-26T22:28:19,42.7,31.8,0.3,28,1904274835,,0.866667,0.8,0.85,0.481132,
+openml.org/t/3818,tae,H2OAutoML,test,8,binary,0.8,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-26T22:29:04,44.8,32.7,0.3,14,1904274836,,0.8,0.84,0.75,0.457174,
+openml.org/t/3818,tae,H2OAutoML,test,9,binary,0.8,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-26T22:29:46,41.5,32.2,0.07,20,1904274837,,0.8,0.851852,0.833333,0.484112,
+openml.org/t/3818,tae,NaiveAutoML,test,0,binary,0.625,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-26T22:09:03,23.2,20.9,0.01,1,644923528,,0.625,0.616667,0.566667,0.933895,
+openml.org/t/3818,tae,NaiveAutoML,test,1,binary,0.8,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-26T22:09:25,22.3,20.1,0.01,1,644923529,,0.8,0.86,0.8,0.426109,
+openml.org/t/3818,tae,NaiveAutoML,test,2,binary,0.666667,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-26T22:09:48,22,20,0.01,1,644923530,,0.666667,0.42,0.55,0.663319,
+openml.org/t/3818,tae,NaiveAutoML,test,3,binary,,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-26T22:10:01,13.1,,,,644923531,NoResultError: +AF8AXw-init+AF8AXw-() got an unexpected keyword argument 'affinity',,,,,
+openml.org/t/3818,tae,NaiveAutoML,test,4,binary,0.8,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-26T22:10:24,23,21,0.01,1,644923532,,0.8,0.76,0.75,0.543645,
+openml.org/t/3818,tae,NaiveAutoML,test,5,binary,0.8,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-26T22:10:46,22.4,20.4,0.03,1,644923533,,0.8,0.81,0.8,0.61228,
+openml.org/t/3818,tae,NaiveAutoML,test,6,binary,0.933333,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-26T22:11:09,22.3,20.2,0.02,1,644923534,,0.933333,0.94,0.95,2.49755,
+openml.org/t/3818,tae,NaiveAutoML,test,7,binary,0.8,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-26T22:11:32,23.2,21.1,0.01,1,644923535,,0.8,0.81,0.75,0.500107,
+openml.org/t/3818,tae,NaiveAutoML,test,8,binary,0.866667,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-26T22:11:59,27.1,25.1,0.02,1,644923536,,0.866667,0.92,0.8,0.598109,
+openml.org/t/3818,tae,NaiveAutoML,test,9,binary,0.666667,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-26T22:12:25,25,22.7,0.02,1,644923537,,0.666667,0.740741,0.666667,2.86134,
+openml.org/t/3818,tae,TPOT,test,0,binary,0.8125,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-26T21:55:32,42.2,34.3,0.02,96,333441006,,0.8125,0.8,0.75,0.45165,
+openml.org/t/3818,tae,TPOT,test,1,binary,0.8,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-26T21:56:10,38.2,31.5,0.05,88,333441007,,0.8,0.91,0.75,2.66596,
+openml.org/t/3818,tae,TPOT,test,2,binary,0.8,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-26T21:56:48,37.6,30.8,0.02,64,333441008,,0.8,0.74,0.75,1.24485,
+openml.org/t/3818,tae,TPOT,test,3,binary,0.733333,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-26T21:57:27,38.4,31.2,0.004,88,333441009,,0.733333,0.82,0.6,0.433728,
+openml.org/t/3818,tae,TPOT,test,4,binary,0.733333,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-26T21:58:10,42.9,35.8,0.002,93,333441010,,0.733333,0.84,0.6,1.14981,
+openml.org/t/3818,tae,TPOT,test,5,binary,0.666667,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-26T21:58:47,37.5,30.9,0.04,111,333441011,,0.666667,0.66,0.6,2.8319,
+openml.org/t/3818,tae,TPOT,test,6,binary,0.8,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-26T21:59:25,37.7,31.2,0.02,94,333441012,,0.8,0.78,0.8,0.574803,
+openml.org/t/3818,tae,TPOT,test,7,binary,0.866667,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-26T22:00:03,37.4,31,0.002,95,333441013,,0.866667,0.98,0.8,0.227429,
+openml.org/t/3818,tae,TPOT,test,8,binary,0.8,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-26T22:00:40,37,30.5,0.008,150,333441014,,0.8,0.76,0.75,0.586596,
+openml.org/t/3818,tae,TPOT,test,9,binary,0.666667,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-26T22:01:17,37.3,30.8,0.002,105,333441015,,0.666667,0.675926,0.611111,2.862,

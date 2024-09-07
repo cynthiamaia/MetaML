@@ -1,0 +1,51 @@
+id,task,framework,constraint,fold,type,result,metric,mode,version,params,app+AF8-version,utc,duration,training+AF8-duration,predict+AF8-duration,models+AF8-count,seed,info,acc,balacc,logloss,models+AF8-ensemble+AF8-count
+openml.org/t/2140,BNG+AF8-lymph+AF8-,AutoGluon,test,0,multiclass,0.93369,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-26T17:41:39,192.6,182.3,2.2,5,425825390,,0.93369,0.877775,0.178857,3
+openml.org/t/2140,BNG+AF8-lymph+AF8-,AutoGluon,test,1,multiclass,0.93297,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-26T17:45:21,221,182.1,32.6,5,425825391,,0.93297,0.874321,0.203958,3
+openml.org/t/2140,BNG+AF8-lymph+AF8-,AutoGluon,test,2,multiclass,0.93277,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-26T17:49:01,219.9,182.2,32.3,5,425825392,,0.93277,0.886296,0.177103,3
+openml.org/t/2140,BNG+AF8-lymph+AF8-,AutoGluon,test,3,multiclass,0.93134,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-26T17:52:12,190.1,182.1,2.6,5,425825393,,0.93134,0.877655,0.183755,3
+openml.org/t/2140,BNG+AF8-lymph+AF8-,AutoGluon,test,4,multiclass,0.93195,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-26T17:55:52,219.7,182.1,32.2,5,425825394,,0.93195,0.876326,0.200904,3
+openml.org/t/2140,BNG+AF8-lymph+AF8-,AutoGluon,test,5,multiclass,0.93021,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-26T17:59:03,190.3,182.1,2.8,5,425825395,,0.93021,0.879513,0.181303,3
+openml.org/t/2140,BNG+AF8-lymph+AF8-,AutoGluon,test,6,multiclass,0.93219,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-26T18:03:16,253.1,182.1,65.3,5,425825396,,0.93219,0.879784,0.198435,5
+openml.org/t/2140,BNG+AF8-lymph+AF8-,AutoGluon,test,7,multiclass,0.93163,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-26T18:06:58,221.5,182.1,33.9,5,425825397,,0.93163,0.878241,0.195696,4
+openml.org/t/2140,BNG+AF8-lymph+AF8-,AutoGluon,test,8,multiclass,0.93313,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-26T18:10:39,219.9,182.3,32.1,5,425825398,,0.93313,0.879421,0.176605,3
+openml.org/t/2140,BNG+AF8-lymph+AF8-,AutoGluon,test,9,multiclass,0.93274,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-26T18:14:59,260,182,72.4,5,425825399,,0.93274,0.876004,0.191608,5
+openml.org/t/2140,BNG+AF8-lymph+AF8-,autosklearn,test,0,multiclass,0.03033,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-26T23:01:38,187.8,179.3,0.009,1,1445908935,,0.03033,0.25,1.38629,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,autosklearn,test,1,multiclass,0.03033,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-26T23:04:44,185,176.9,0.007,1,1445908936,,0.03033,0.25,1.38629,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,autosklearn,test,2,multiclass,0.03032,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-26T23:07:52,188.2,180.1,0.009,1,1445908937,,0.03032,0.25,1.38629,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,autosklearn,test,3,multiclass,0.03032,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-26T23:10:57,184.6,176.6,0.008,1,1445908938,,0.03032,0.25,1.38629,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,autosklearn,test,4,multiclass,0.03032,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-26T23:14:04,187.1,179,0.006,1,1445908939,,0.03032,0.25,1.38629,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,autosklearn,test,5,multiclass,0.03032,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-26T23:17:13,188.3,180.3,0.006,1,1445908940,,0.03032,0.25,1.38629,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,autosklearn,test,6,multiclass,0.03032,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-26T23:20:18,184.6,176.7,0.006,1,1445908941,,0.03032,0.25,1.38629,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,autosklearn,test,7,multiclass,0.03033,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-26T23:23:26,188.2,180.1,0.006,1,1445908942,,0.03033,0.25,1.38629,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,autosklearn,test,8,multiclass,0.03033,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-26T23:26:32,185.6,177.7,0.006,1,1445908943,,0.03033,0.25,1.38629,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,autosklearn,test,9,multiclass,0.03033,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-26T23:29:41,189,181,0.006,1,1445908944,,0.03033,0.25,1.38629,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,H2OAutoML,test,0,multiclass,0.92616,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-27T03:29:46,206,174.1,0.5,3,254663890,,0.92616,0.846532,0.391268,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,H2OAutoML,test,1,multiclass,0.9237,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-27T03:33:05,197.6,173.7,0.5,8,254663891,,0.9237,0.837271,0.461322,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,H2OAutoML,test,2,multiclass,0.92255,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-27T03:36:23,197.7,173.3,0.5,8,254663892,,0.92255,0.847104,0.460496,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,H2OAutoML,test,3,multiclass,0.92171,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-27T03:39:38,194.1,174.5,0.5,7,254663893,,0.92171,0.831367,0.468545,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,H2OAutoML,test,4,multiclass,0.92296,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-27T03:42:54,195.1,174.9,0.7,7,254663894,,0.92296,0.83466,0.397068,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,H2OAutoML,test,5,multiclass,0.92238,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-27T03:46:12,197.4,177.7,0.5,7,254663895,,0.92238,0.841019,0.466601,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,H2OAutoML,test,6,multiclass,0.92428,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-27T03:49:28,195.4,173.2,0.5,7,254663896,,0.92428,0.847661,0.389663,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,H2OAutoML,test,7,multiclass,0.92396,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-27T03:53:08,220,180.4,0.5,7,254663897,,0.92396,0.846345,0.469109,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,H2OAutoML,test,8,multiclass,,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-27T03:59:07,357.3,,,,254663898,NoResultError: Interrupting thread MainThread +AFs-ident+AD0-140188223874880+AF0- after 336s timeout.,,,,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,H2OAutoML,test,9,multiclass,0.92568,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-27T04:02:35,208,173.2,0.5,7,254663899,,0.92568,0.847251,0.391513,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,NaiveAutoML,test,0,multiclass,,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-26T18:31:30,181.6,,,,409993762,NoResultError: 'NoneType' object has no attribute 'predict',,,,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,NaiveAutoML,test,1,multiclass,,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-26T18:34:31,180.8,,,,409993763,NoResultError: 'NoneType' object has no attribute 'predict',,,,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,NaiveAutoML,test,2,multiclass,,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-26T18:37:33,180.8,,,,409993764,NoResultError: 'NoneType' object has no attribute 'predict',,,,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,NaiveAutoML,test,3,multiclass,,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-26T18:40:38,184.2,,,,409993765,NoResultError: 'NoneType' object has no attribute 'predict',,,,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,NaiveAutoML,test,4,multiclass,,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-26T18:43:41,182.1,,,,409993766,NoResultError: 'NoneType' object has no attribute 'predict',,,,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,NaiveAutoML,test,5,multiclass,,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-26T18:46:44,182.8,,,,409993767,NoResultError: 'NoneType' object has no attribute 'predict',,,,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,NaiveAutoML,test,6,multiclass,,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-26T18:49:48,182.9,,,,409993768,NoResultError: 'NoneType' object has no attribute 'predict',,,,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,NaiveAutoML,test,7,multiclass,,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-26T18:52:49,180.5,,,,409993769,NoResultError: 'NoneType' object has no attribute 'predict',,,,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,NaiveAutoML,test,8,multiclass,,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-26T18:55:49,180,,,,409993770,NoResultError: 'NoneType' object has no attribute 'predict',,,,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,NaiveAutoML,test,9,multiclass,,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-26T18:58:50,179.8,,,,409993771,NoResultError: 'NoneType' object has no attribute 'predict',,,,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,TPOT,test,0,multiclass,,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-26T19:05:13,369.6,,,,1149688127,NoResultError: Interrupting thread MainThread +AFs-ident+AD0-140189450475328+AF0- after 360s timeout.,,,,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,TPOT,test,1,multiclass,,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-26T19:11:21,367.7,,,,1149688128,NoResultError: Interrupting thread MainThread +AFs-ident+AD0-140596269070144+AF0- after 360s timeout.,,,,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,TPOT,test,2,multiclass,,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-26T19:17:30,368.4,,,,1149688129,NoResultError: Interrupting thread MainThread +AFs-ident+AD0-140646768830272+AF0- after 360s timeout.,,,,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,TPOT,test,3,multiclass,0.89052,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-26T19:23:32,361.7,352.2,0.01,8,1149688130,,0.89052,0.744954,0.321862,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,TPOT,test,4,multiclass,,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-26T19:29:42,368.4,,,,1149688131,NoResultError: Interrupting thread MainThread +AFs-ident+AD0-140554390644544+AF0- after 360s timeout.,,,,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,TPOT,test,5,multiclass,,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-26T19:35:50,367.6,,,,1149688132,NoResultError: Interrupting thread MainThread +AFs-ident+AD0-140401492731712+AF0- after 360s timeout.,,,,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,TPOT,test,6,multiclass,,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-26T19:41:58,367.6,,,,1149688133,NoResultError: Interrupting thread MainThread +AFs-ident+AD0-139904252512064+AF0- after 360s timeout.,,,,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,TPOT,test,7,multiclass,,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-26T19:48:10,371.1,,,,1149688134,NoResultError: Interrupting thread MainThread +AFs-ident+AD0-140374726801216+AF0- after 360s timeout.,,,,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,TPOT,test,8,multiclass,,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-26T19:54:19,368.6,,,,1149688135,NoResultError: Interrupting thread MainThread +AFs-ident+AD0-139890478638912+AF0- after 360s timeout.,,,,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,TPOT,test,9,multiclass,,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-26T20:00:27,367.6,,,,1149688136,NoResultError: Interrupting thread MainThread +AFs-ident+AD0-140601403676480+AF0- after 360s timeout.,,,,

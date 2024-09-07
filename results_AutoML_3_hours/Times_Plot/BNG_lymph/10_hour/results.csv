@@ -1,0 +1,51 @@
+id,task,framework,constraint,fold,type,result,metric,mode,version,params,app+AF8-version,utc,duration,training+AF8-duration,predict+AF8-duration,models+AF8-count,seed,info,acc,balacc,logloss,models+AF8-ensemble+AF8-count
+openml.org/t/2140,BNG+AF8-lymph+AF8-,AutoGluon,test,0,multiclass,0.93424,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-22T22:28:17,2397.7,2393.5,0.1,14,699641286,,0.93424,0.884873,0.173367,2
+openml.org/t/2140,BNG+AF8-lymph+AF8-,AutoGluon,test,1,multiclass,0.93293,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-22T23:05:08,2210.7,2195.6,3.8,14,699641287,,0.93293,0.878561,0.178449,6
+openml.org/t/2140,BNG+AF8-lymph+AF8-,AutoGluon,test,2,multiclass,0.93355,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-22T23:46:34,2486.3,2476.2,4.5,14,699641288,,0.93355,0.888599,0.170474,4
+openml.org/t/2140,BNG+AF8-lymph+AF8-,AutoGluon,test,3,multiclass,0.93289,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-23T00:28:41,2525.7,2514.1,5.9,14,699641289,,0.93289,0.885374,0.176246,6
+openml.org/t/2140,BNG+AF8-lymph+AF8-,AutoGluon,test,4,multiclass,0.93268,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-23T00:57:57,1756.4,1745.8,4.6,14,699641290,,0.93268,0.881783,0.176457,5
+openml.org/t/2140,BNG+AF8-lymph+AF8-,AutoGluon,test,5,multiclass,0.93192,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-23T01:28:30,1832.4,1815.9,9.1,14,699641291,,0.93192,0.880739,0.17837,8
+openml.org/t/2140,BNG+AF8-lymph+AF8-,AutoGluon,test,6,multiclass,0.93307,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-23T02:15:39,2829.1,2817.6,3.5,14,699641292,,0.93307,0.884418,0.177716,6
+openml.org/t/2140,BNG+AF8-lymph+AF8-,AutoGluon,test,7,multiclass,0.93208,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-23T02:58:28,2568.6,2546.2,12.2,14,699641293,,0.93208,0.880716,0.188217,8
+openml.org/t/2140,BNG+AF8-lymph+AF8-,AutoGluon,test,8,multiclass,0.93403,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-23T03:35:07,2198.3,2191.8,1.4,14,699641294,,0.93403,0.883237,0.173689,4
+openml.org/t/2140,BNG+AF8-lymph+AF8-,AutoGluon,test,9,multiclass,0.93336,acc,local,1.0.0,,2.1.4,2024+AC0-01+AC0-23T04:09:24,2056.3,2041.3,9.1,14,699641295,,0.93336,0.882706,0.184383,7
+openml.org/t/2140,BNG+AF8-lymph+AF8-,autosklearn,test,0,multiclass,0.92947,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-23T21:00:56,3647.6,3606,15.1,6,1823663776,,0.92947,0.893634,1.07187,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,autosklearn,test,1,multiclass,0.9321,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-23T22:02:33,3696.8,3603.6,41,16,1823663777,,0.9321,0.877869,0.193509,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,autosklearn,test,2,multiclass,0.93104,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-23T23:03:34,3659.7,3603.9,22,8,1823663778,,0.93104,0.89534,1.2608,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,autosklearn,test,3,multiclass,,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-24T01:09:35,7560,,,,1823663779,TimeoutError: Interrupting thread MainThread +AFs-ident+AD0-140349309334144+AF0- after 7500s timeout.,,,,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,autosklearn,test,4,multiclass,,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-24T03:15:35,7560,,,,1823663780,TimeoutError: Interrupting thread MainThread +AFs-ident+AD0-140349309334144+AF0- after 7500s timeout.,,,,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,autosklearn,test,5,multiclass,0.93131,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-24T04:17:52,3736.6,3603.8,61,11,1823663781,,0.93131,0.887123,0.872356,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,autosklearn,test,6,multiclass,,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-24T06:23:53,7560,,,,1823663782,TimeoutError: Interrupting thread MainThread +AFs-ident+AD0-140349309334144+AF0- after 7500s timeout.,,,,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,autosklearn,test,7,multiclass,,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-24T08:29:53,7560,,,,1823663783,TimeoutError: Interrupting thread MainThread +AFs-ident+AD0-140349309334144+AF0- after 7500s timeout.,,,,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,autosklearn,test,8,multiclass,0.93119,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-24T09:31:00,3666.9,3603.3,25.4,11,1823663784,,0.93119,0.894468,0.186099,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,autosklearn,test,9,multiclass,,acc,local,0.15.0,,2.1.4,2024+AC0-01+AC0-24T11:37:01,7560,,,,1823663785,TimeoutError: Interrupting thread MainThread +AFs-ident+AD0-140349309334144+AF0- after 7500s timeout.,,,,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,H2OAutoML,test,0,multiclass,0.93244,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-23T09:42:47,3627.2,3602.9,0.9,18,712564596,,0.93244,0.872271,0.183419,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,H2OAutoML,test,1,multiclass,0.93082,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-23T10:43:22,3633.8,3610.2,0.9,17,712564597,,0.93082,0.866521,0.184439,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,H2OAutoML,test,2,multiclass,0.93043,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-23T11:43:49,3627.2,3604.8,0.8,17,712564598,,0.93043,0.875079,0.182975,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,H2OAutoML,test,3,multiclass,0.92888,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-23T12:44:14,3624.5,3603.1,0.9,17,712564599,,0.92888,0.869243,0.191053,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,H2OAutoML,test,4,multiclass,0.91582,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-23T13:44:55,3640.7,3617.5,2.2,21,712564600,,0.91582,0.758049,0.25964,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,H2OAutoML,test,5,multiclass,0.93144,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-23T14:45:20,3624.2,3601.9,1.5,18,712564601,,0.93144,0.881277,0.182089,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,H2OAutoML,test,6,multiclass,0.93041,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-23T15:45:52,3631.6,3608.8,0.8,21,712564602,,0.93041,0.872787,0.185226,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,H2OAutoML,test,7,multiclass,0.93086,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-23T16:46:19,3627.2,3605.6,1.1,22,712564603,,0.93086,0.872519,0.185414,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,H2OAutoML,test,8,multiclass,0.93149,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-23T17:46:43,3623.5,3601.9,0.9,18,712564604,,0.93149,0.869897,0.183298,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,H2OAutoML,test,9,multiclass,0.93131,acc,local,3.44.0.2,,2.1.4,2024+AC0-01+AC0-23T18:47:12,3629,3606.9,0.8,17,712564605,,0.93131,0.870161,0.183142,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,NaiveAutoML,test,0,multiclass,0.9025,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-23T15:54:40,3617.7,3611.9,0.9,1,964841550,,0.9025,0.81935,2.73563,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,NaiveAutoML,test,1,multiclass,0.90219,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-23T16:54:59,3618.1,3611.8,0.9,1,964841551,,0.90219,0.81785,2.72099,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,NaiveAutoML,test,2,multiclass,0.90116,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-23T17:55:23,3624.4,3617.6,1.9,1,964841552,,0.90116,0.826928,2.72053,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,NaiveAutoML,test,3,multiclass,0.90086,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-23T18:55:41,3617.5,3611.7,0.9,1,964841553,,0.90086,0.8212,2.74719,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,NaiveAutoML,test,4,multiclass,0.90182,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-23T19:56:00,3617.7,3611.6,0.9,1,964841554,,0.90182,0.821151,2.71776,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,NaiveAutoML,test,5,multiclass,0.90172,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-23T20:56:18,3618.2,3612,0.9,1,964841555,,0.90172,0.821982,2.73227,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,NaiveAutoML,test,6,multiclass,0.90263,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-23T21:56:37,3618.2,3611.8,0.9,1,964841556,,0.90263,0.824796,2.69846,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,NaiveAutoML,test,7,multiclass,0.90067,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-23T22:57:03,3624.9,3617.7,1.9,1,964841557,,0.90067,0.820212,2.78784,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,NaiveAutoML,test,8,multiclass,0.90266,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-23T23:57:28,3624.9,3617.6,1.8,1,964841558,,0.90266,0.819731,2.69521,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,NaiveAutoML,test,9,multiclass,0.90229,acc,local,0.0.27,,2.1.4,2024+AC0-01+AC0-24T00:57:55,3625.9,3618.2,1.9,1,964841559,,0.90229,0.822746,2.69952,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,TPOT,test,0,multiclass,0.90026,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-23T02:56:19,5826.3,5807.7,0.01,8,440599127,,0.90026,0.793814,0.279328,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,TPOT,test,1,multiclass,0.80383,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-23T04:01:01,3880.6,3867.9,0.06,8,440599128,,0.80383,0.771123,1.00323,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,TPOT,test,2,multiclass,,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-23T06:01:11,7208.7,,,,440599129,NoResultError: Interrupting thread MainThread +AFs-ident+AD0-140322243667776+AF0- after 7200s timeout.,,,,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,TPOT,test,3,multiclass,0.90036,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-23T07:08:12,4020.7,4008.7,1.1,8,440599130,,0.90036,0.801433,0.630352,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,TPOT,test,4,multiclass,,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-23T07:10:49,156.1,,,,440599131,NoResultError: A pipeline has not yet been optimized. Please call fit() first.,,,,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,TPOT,test,5,multiclass,0.8568,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-23T09:05:52,6903.4,6892.7,0.03,24,440599132,,0.8568,0.750566,0.35525,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,TPOT,test,6,multiclass,,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-23T11:06:01,7207.5,,,,440599133,NoResultError: Interrupting thread MainThread +AFs-ident+AD0-140683390977856+AF0- after 7200s timeout.,,,,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,TPOT,test,7,multiclass,0.90417,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-23T12:12:35,3994.3,3985.5,0.06,8,440599134,,0.90417,0.797932,3.45406,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,TPOT,test,8,multiclass,0.89991,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-23T13:17:47,3911.4,3898.7,0.08,32,440599135,,0.89991,0.7776,0.290101,
+openml.org/t/2140,BNG+AF8-lymph+AF8-,TPOT,test,9,multiclass,0.88267,acc,local,0.12.1,,2.1.4,2024+AC0-01+AC0-23T14:51:37,5628.7,5618,0.04,32,440599136,,0.88267,0.757391,0.322098,
