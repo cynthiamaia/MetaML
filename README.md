@@ -1,6 +1,6 @@
 ## This repository contains the codes and results of the article "MetaML: A Multi-Label Meta-Learning Approach for Pipeline Recommendation".
 
-There are two main files: the first is Search_Space.ipynb, which corresponds to the algorithm for projecting the search space, and the second is MetaML.ipynb, which corresponds to the use of the meta-base (meta_dataset.csv). The meta-features_OpenML.ipynb and meta_features_PYMFE.py files correspond to the meta-features extraction process.
+There are two main files: the first is Search_Space.ipynb, which corresponds to the algorithm for projecting the search space, and the second is MetaML.ipynb, which corresponds to the use of the meta-base (meta_dataset_n5_k5.xls). The meta-features_OpenML.ipynb and meta_features_PYMFE.py files correspond to the meta-features extraction process.
 
 This repository is also divided into folders: 
 
